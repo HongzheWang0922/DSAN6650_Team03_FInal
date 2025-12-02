@@ -37,8 +37,8 @@ If `train.gz` is not included in this repository, you can download it from:
 ### Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git https://github.com/HongzheWang0922/DSAN6650_Team03_FInal
+cd DSAN6650_Team03_FInal
 ```
 
 2. Install dependencies:
@@ -90,8 +90,6 @@ The notebook includes comprehensive visualizations and analysis:
 - Match rate evolution
 - Action distribution analysis
 - Algorithm comparison metrics
-
-(Add your specific results here after running experiments)
 
 ## 🛠️ Technical Details
 
