@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 **Option 1: Local Jupyter**
 ```bash
-jupyter notebook DSAN6650_final_Eng.ipynb
+jupyter notebook DSAN6650_Final.ipynb
 ```
 
 **Option 2: Google Colab**
