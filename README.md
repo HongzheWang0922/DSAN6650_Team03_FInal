@@ -112,15 +112,4 @@ The notebook includes comprehensive visualizations and analysis:
 - For local execution, remove Google Drive mounting code (cells 1)
 - Kaggle API credentials are required for direct dataset download
 
-## 👤 Author
-[Your Name]
-DSAN6650 Final Project
-[Date]
 
-## 📄 License
-[Add license information if needed]
-
-## 🙏 Acknowledgments
-- Avazu Click-Through Rate Prediction dataset from Kaggle
-- Course: DSAN6650 - [Course Name]
-- Institution: [Your Institution]
